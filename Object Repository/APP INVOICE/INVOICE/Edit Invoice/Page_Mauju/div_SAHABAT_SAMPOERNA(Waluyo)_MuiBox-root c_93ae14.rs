@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_SAHABAT_SAMPOERNA(Waluyo)_MuiBox-root c_93ae14</name>
+   <tag></tag>
+   <elementGuidId>afe0e40b-dca5-47d5-8b10-eec58ea9e90a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div[2]/div[2]/div[2]/div/div[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiBox-root.css-1jkmexb</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5b578515-30ea-4c39-bc9d-0fbee062d455</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root css-1jkmexb</value>
+      <webElementGuid>77c6e69e-3435-45a0-a6fc-434b31fbb6b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-k008qs&quot;]/div[@class=&quot;MuiBox-root css-cjzos0&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiBox-root css-1hayrle&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-1d3bbye&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-lg-4 css-1mnl8wu&quot;]/div[@class=&quot;MuiBox-root css-1qm1lh&quot;]/div[@class=&quot;MuiBox-root css-1v4girc&quot;]/div[@class=&quot;MuiBox-root css-1jkmexb&quot;]</value>
+      <webElementGuid>bb1d6cf1-0510-41a8-a176-20a0ffb88720</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div[2]/div[2]/div[2]/div/div[5]</value>
+      <webElementGuid>64c2d08b-6e06-460a-a9f9-d567ebd95d1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div[5]</value>
+      <webElementGuid>976c34f7-fb17-49fc-9e76-a47703a09df0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

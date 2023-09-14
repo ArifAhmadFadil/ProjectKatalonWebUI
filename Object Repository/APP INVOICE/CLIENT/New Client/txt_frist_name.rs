@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_frist_name</name>
+   <tag></tag>
+   <elementGuidId>7e1f6488-6adc-4b85-b82f-f8f15462956e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;first_name&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>AURA</value>
+      <webElementGuid>8966f9ce-ee12-4c9f-b6ff-1201a3b7e534</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

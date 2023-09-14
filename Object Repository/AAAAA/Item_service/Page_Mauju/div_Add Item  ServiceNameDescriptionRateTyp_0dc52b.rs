@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Add Item  ServiceNameDescriptionRateTyp_0dc52b</name>
+   <tag></tag>
+   <elementGuidId>049de298-b91e-4362-a830-7b2da70b29e7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiDialog-container.MuiDialog-scrollPaper.css-ekeie0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[2]/following::div[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>23cd9319-0d9f-49a6-a35f-04adb4148082</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiDialog-container MuiDialog-scrollPaper css-ekeie0</value>
+      <webElementGuid>161ca8da-3c84-402f-92fe-4c74a4d8f90a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>f2e1b857-de97-4c8a-bf7f-e93c6d980ac0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>3d1613bd-2bf8-42cf-824b-b762b99ad7cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Item / ServiceNameDescriptionRateTypeItemServiceTax + Add Taxppn 98%PIN 10%Discount+ Add Discountpromo 99%disk 50%s 55%ee 12%Save</value>
+      <webElementGuid>bdef3357-d6d9-4566-81d3-7d21fbfbbb26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;notranslate&quot;]/body[1]/div[@class=&quot;MuiDialog-root MuiModal-root css-1shjuqk&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-ekeie0&quot;]</value>
+      <webElementGuid>90e3d64b-e624-41d8-b0b4-c1cfbba8ab2a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[2]/following::div[5]</value>
+      <webElementGuid>460423a8-614f-4a12-bcfc-99dbdba76c99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Team'])[2]/following::div[8]</value>
+      <webElementGuid>c2f19134-579b-4041-aaaa-c1de08e12ead</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[3]</value>
+      <webElementGuid>e2a2390c-e3cd-48e4-8cee-4429c88acc9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Add Item / ServiceNameDescriptionRateTypeItemServiceTax + Add Taxppn 98%PIN 10%Discount+ Add Discountpromo 99%disk 50%s 55%ee 12%Save' or . = 'Add Item / ServiceNameDescriptionRateTypeItemServiceTax + Add Taxppn 98%PIN 10%Discount+ Add Discountpromo 99%disk 50%s 55%ee 12%Save')]</value>
+      <webElementGuid>8add6a48-c0e5-448a-981d-af6e545a8931</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

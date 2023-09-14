@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_BackPaymentSelect PaymentPayment Proces_46ea46</name>
+   <tag></tag>
+   <elementGuidId>56eca788-aefb-48e8-94d7-ad3f396d69d4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiBox-root.css-1695q56</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>53c51355-b55a-429c-9b47-af668a29f44f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root css-1695q56</value>
+      <webElementGuid>11fdde2a-71a3-43c0-8a73-13c4dfbb253a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BackPaymentSelect PaymentPayment ProcessFinishPurchased Plan premiummonthlyQty 1Amount $ 8.99Discount $ 0Total Billing $ 8.99E-Wallet​DANAOVOPhone Number+62​ShopeePayLinkajaConfirm &amp; PayYour License Is Expired, Check out our subscription plan now to be able create more invoice for your business. Subscribe NowYour License Is Expired. Subscribe Now</value>
+      <webElementGuid>7f591987-2824-478a-88b8-a427274322b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-k008qs&quot;]/div[@class=&quot;MuiBox-root css-1695q56&quot;]</value>
+      <webElementGuid>b30cb33c-1efa-4b2d-9f57-8a6c5f61e5c4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div</value>
+      <webElementGuid>7ae219f0-76fa-4ba4-a6dd-ba96093326ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID'])[1]/following::div[1]</value>
+      <webElementGuid>91ea02ef-4d2c-47b7-9e90-7c147f0b07ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EN'])[1]/following::div[1]</value>
+      <webElementGuid>5e09b746-3bc4-4e5d-bc6b-37805b365924</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div</value>
+      <webElementGuid>be1c3664-48c6-4d58-8adc-1145bd6c3591</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'BackPaymentSelect PaymentPayment ProcessFinishPurchased Plan premiummonthlyQty 1Amount $ 8.99Discount $ 0Total Billing $ 8.99E-Wallet​DANAOVOPhone Number+62​ShopeePayLinkajaConfirm &amp; PayYour License Is Expired, Check out our subscription plan now to be able create more invoice for your business. Subscribe NowYour License Is Expired. Subscribe Now' or . = 'BackPaymentSelect PaymentPayment ProcessFinishPurchased Plan premiummonthlyQty 1Amount $ 8.99Discount $ 0Total Billing $ 8.99E-Wallet​DANAOVOPhone Number+62​ShopeePayLinkajaConfirm &amp; PayYour License Is Expired, Check out our subscription plan now to be able create more invoice for your business. Subscribe NowYour License Is Expired. Subscribe Now')]</value>
+      <webElementGuid>5fe35d46-a4db-4f41-869a-60695e8df050</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

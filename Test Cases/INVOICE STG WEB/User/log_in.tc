@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>log_in</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c32070de-6772-43de-a629-cb031900d60d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>91d0a10e-f34c-4a4e-9f49-21516cb7dfc1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>91d0a10e-f34c-4a4e-9f49-21516cb7dfc1</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

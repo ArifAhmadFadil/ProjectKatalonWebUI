@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_DANA</name>
+   <tag></tag>
+   <elementGuidId>50fb1e94-2759-492f-a029-135ae35621df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[3]/div/div[2]/form/div/div[2]/div/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.MuiFormControlLabel-root.MuiFormControlLabel-labelPlacementEnd.css-164dwvm</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>65ed4af7-89d7-4c54-ba44-039cc5452f65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-164dwvm</value>
+      <webElementGuid>35598dbf-599c-4943-b528-54c5dbb8eca8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DANA</value>
+      <webElementGuid>2beefc55-af70-4385-9dfd-215ad3b08b62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-k008qs&quot;]/div[@class=&quot;MuiBox-root css-1695q56&quot;]/div[@class=&quot;MuiBox-root css-zx4g27&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-k3z97i&quot;]/form[@class=&quot;p-0&quot;]/div[@class=&quot;MuiBox-root css-4al1fy&quot;]/div[@class=&quot;MuiBox-root css-1gngpax&quot;]/div[@class=&quot;MuiFormControl-root css-tzsjye&quot;]/div[@class=&quot;MuiFormGroup-root css-1h7anqn&quot;]/label[@class=&quot;MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-164dwvm&quot;]</value>
+      <webElementGuid>61a41efa-25aa-4773-811e-ab7c63cccf06</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[3]/div/div[2]/form/div/div[2]/div/div/label</value>
+      <webElementGuid>d93e09ce-e2a6-4ff3-867b-ca2264b8bb2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/following::label[1]</value>
+      <webElementGuid>922ca696-7daf-4bcb-8ab5-c188e938db04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E-Wallet'])[1]/following::label[1]</value>
+      <webElementGuid>eb942c27-8ed1-4a42-ba43-124ca21ed007</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm &amp; Pay'])[1]/preceding::label[4]</value>
+      <webElementGuid>bb57261b-2b1f-48cf-95f9-1fcc7be87aae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscribe Now'])[1]/preceding::label[4]</value>
+      <webElementGuid>86520b6f-b0b8-40b2-b374-f65e8282d14e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>a4ac310c-1a57-4eee-a9e0-8fc9cd08e106</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'DANA' or . = 'DANA')]</value>
+      <webElementGuid>049ccb9e-d8b0-4d14-b471-92c0efe4aa5c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

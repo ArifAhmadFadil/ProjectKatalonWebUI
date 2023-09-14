@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Invoice Number.Date Of IssueReferenceBi_90aac1</name>
+   <tag></tag>
+   <elementGuidId>fa3c0fe4-c267-4a3a-be72-5d6f2f086698</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiGrid-root.MuiGrid-item.MuiGrid-grid-xs-12.MuiGrid-grid-lg-8.css-19jf4li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b9171bfd-ace3-43bd-b977-faf626f2efaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-lg-8 css-19jf4li</value>
+      <webElementGuid>feb78621-f870-422d-9ea7-ae455339243f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Invoice Number.Date Of IssueReferenceBilled to ChangeFADIL NDALUCO-​​Items &amp; Services + New Items / ServicesRantai MotorIndopartx 1Rp 75.000Rp 75.000Rp 75.000+ Add A LineInvoice SummarySub TotalTaxDiscountTotalPayment TermsOn The Date Of Issue​Due Date​Request of a deposit of payment in advancedPercentageFlat Amount%Of Invoice ValueDeposit Amount  : Rp 7.500Deposit Due DateNotesTermsAttachments+ Add an attachment Select file or drop file here to upload</value>
+      <webElementGuid>8d53ebf9-6709-436b-98fd-152999ca8d17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-k008qs&quot;]/div[@class=&quot;MuiBox-root css-cjzos0&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiBox-root css-1hayrle&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-8rnkcc&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-lg-8 css-19jf4li&quot;]</value>
+      <webElementGuid>09acb367-392b-4a55-bc04-2e2bca7a185c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div[2]/div</value>
+      <webElementGuid>9b5bfceb-1c3c-42f4-bd23-41b0cc0eacdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/following::div[2]</value>
+      <webElementGuid>9fe94e17-888b-454e-ad13-ebab916d9263</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back to invoice list'])[1]/following::div[5]</value>
+      <webElementGuid>dbe1730a-0781-4fff-9f27-136f7962d337</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div</value>
+      <webElementGuid>f8bb2113-9f09-4f33-b810-3f599a5ea282</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Invoice Number.Date Of IssueReferenceBilled to ChangeFADIL NDALUCO-​​Items &amp; Services + New Items / ServicesRantai MotorIndopartx 1Rp 75.000Rp 75.000Rp 75.000+ Add A LineInvoice SummarySub TotalTaxDiscountTotalPayment TermsOn The Date Of Issue​Due Date​Request of a deposit of payment in advancedPercentageFlat Amount%Of Invoice ValueDeposit Amount  : Rp 7.500Deposit Due DateNotesTermsAttachments+ Add an attachment Select file or drop file here to upload' or . = 'Invoice Number.Date Of IssueReferenceBilled to ChangeFADIL NDALUCO-​​Items &amp; Services + New Items / ServicesRantai MotorIndopartx 1Rp 75.000Rp 75.000Rp 75.000+ Add A LineInvoice SummarySub TotalTaxDiscountTotalPayment TermsOn The Date Of Issue​Due Date​Request of a deposit of payment in advancedPercentageFlat Amount%Of Invoice ValueDeposit Amount  : Rp 7.500Deposit Due DateNotesTermsAttachments+ Add an attachment Select file or drop file here to upload')]</value>
+      <webElementGuid>3d4f6849-27b9-40a5-80ab-cb2b85b53e64</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

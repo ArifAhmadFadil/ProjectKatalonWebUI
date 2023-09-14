@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Make RecurringCompany ProfileCompany Lo_6d5e6b</name>
+   <tag></tag>
+   <elementGuidId>8bfb4039-d84e-41ee-9275-5d4be222d97a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiGrid-root.MuiGrid-item.MuiGrid-grid-xs-12.MuiGrid-grid-lg-4.css-h7qpt8</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cf23817c-a45c-471b-acb7-6b6247ca71ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-lg-4 css-h7qpt8</value>
+      <webElementGuid>e623b9ee-84c6-479e-beab-487544c36962</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Make RecurringCompany ProfileCompany LogoCompany NameNAV54867RAdressBantulLocationBantul Ogan552525YogyakartaaIndonesiaMobile Phone+62856585458Bussines Phone0245464584Whatsapp Phone+62555855654455ChangeInvoice LayoutTemplateProfessionalColor Theme#FF5555FontPoppinsChangeBank AccountPERMATA 88545555FadilSAHABAT_SAMPOERNA 232349879549849Ahmad JunaidiSAHABAT_SAMPOERNA 123456789WaluyoSAHABAT_SAMPOERNA 1234789WaluyoSAHABAT_SAMPOERNA 78565855155BARDIBSI 00792169025FADILSAHABAT_SAMPOERNA 8565855155SUPRIChangeOnline PaymentAccept Online PaymentClient ReminderAutomatically send payment reminder to client’s email before or after the due date.Reminder 1Days​before​Due DateAdd More Reminder Reminder is scheduled after the invoice was sent by mail.SaveCurrency &amp; LanguageCurrencyIDRLanguageIdChangePreview Invoice Send Invoice </value>
+      <webElementGuid>f5b7cbb2-2a74-4bb4-8249-ed75691d43eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-k008qs&quot;]/div[@class=&quot;MuiBox-root css-cjzos0&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiBox-root css-2jjuuv&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-8rnkcc&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-lg-4 css-h7qpt8&quot;]</value>
+      <webElementGuid>758007a2-1412-48d1-89ed-b35abf87726d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div[2]/div[2]</value>
+      <webElementGuid>fc0afd75-4b69-492c-b262-4ada0ca25e40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select file or drop file here to upload'])[1]/following::div[1]</value>
+      <webElementGuid>7fa3ec57-be70-4801-bb2d-067a6a4266d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]</value>
+      <webElementGuid>99166609-9e89-49c3-8f26-dbd1ac623f47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Make RecurringCompany ProfileCompany LogoCompany NameNAV54867RAdressBantulLocationBantul Ogan552525YogyakartaaIndonesiaMobile Phone+62856585458Bussines Phone0245464584Whatsapp Phone+62555855654455ChangeInvoice LayoutTemplateProfessionalColor Theme#FF5555FontPoppinsChangeBank AccountPERMATA 88545555FadilSAHABAT_SAMPOERNA 232349879549849Ahmad JunaidiSAHABAT_SAMPOERNA 123456789WaluyoSAHABAT_SAMPOERNA 1234789WaluyoSAHABAT_SAMPOERNA 78565855155BARDIBSI 00792169025FADILSAHABAT_SAMPOERNA 8565855155SUPRIChangeOnline PaymentAccept Online PaymentClient ReminderAutomatically send payment reminder to client’s email before or after the due date.Reminder 1Days​before​Due DateAdd More Reminder Reminder is scheduled after the invoice was sent by mail.SaveCurrency &amp; LanguageCurrencyIDRLanguageIdChangePreview Invoice Send Invoice ' or . = 'Make RecurringCompany ProfileCompany LogoCompany NameNAV54867RAdressBantulLocationBantul Ogan552525YogyakartaaIndonesiaMobile Phone+62856585458Bussines Phone0245464584Whatsapp Phone+62555855654455ChangeInvoice LayoutTemplateProfessionalColor Theme#FF5555FontPoppinsChangeBank AccountPERMATA 88545555FadilSAHABAT_SAMPOERNA 232349879549849Ahmad JunaidiSAHABAT_SAMPOERNA 123456789WaluyoSAHABAT_SAMPOERNA 1234789WaluyoSAHABAT_SAMPOERNA 78565855155BARDIBSI 00792169025FADILSAHABAT_SAMPOERNA 8565855155SUPRIChangeOnline PaymentAccept Online PaymentClient ReminderAutomatically send payment reminder to client’s email before or after the due date.Reminder 1Days​before​Due DateAdd More Reminder Reminder is scheduled after the invoice was sent by mail.SaveCurrency &amp; LanguageCurrencyIDRLanguageIdChangePreview Invoice Send Invoice ')]</value>
+      <webElementGuid>b4c0a7b5-c8b0-4861-8f6c-1914953848e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

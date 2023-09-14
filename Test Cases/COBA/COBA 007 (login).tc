@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>data driven testing</description>
+   <name>COBA 007 (login)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1f1c8b3b-177c-4188-a3f3-e1d8231afbc8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5386a51c-4c1d-4ba4-8cee-9a3089f4c544</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5386a51c-4c1d-4ba4-8cee-9a3089f4c544</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+</TestCaseEntity>

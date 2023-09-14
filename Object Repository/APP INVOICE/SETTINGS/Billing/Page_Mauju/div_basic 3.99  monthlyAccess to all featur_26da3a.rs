@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_basic 3.99  monthlyAccess to all featur_26da3a</name>
+   <tag></tag>
+   <elementGuidId>f3d39f10-3fb9-437d-bbc8-0746d941969e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='scrollable-auto-tabpanel-0']/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiBox-root.css-egajcf</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cc3664f0-735e-44d7-81c9-a9e5fcd32f57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root css-egajcf</value>
+      <webElementGuid>91e70bae-f348-459f-8071-fb9375800665</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>basic$ 3.99 / monthlyAccess to all featuresRegister Up To 5 ClientsDelegate Your Work To Up To 3 AdminsBuy Now</value>
+      <webElementGuid>6e78ef84-a398-4907-8fcd-fa72f39cff43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scrollable-auto-tabpanel-0&quot;)/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-1m3fm0q&quot;]/div[@class=&quot;MuiBox-root css-egajcf&quot;]</value>
+      <webElementGuid>03f775ed-ad22-426d-82e4-c0e6e40e81ab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scrollable-auto-tabpanel-0']/div/div/div</value>
+      <webElementGuid>06f44c0f-236e-4311-9a9d-792ad742deba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/following::div[6]</value>
+      <webElementGuid>7717e88b-29df-47f3-9fa0-a1611a11a090</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Licenses'])[2]/following::div[21]</value>
+      <webElementGuid>cf37aa5d-4939-4aba-b2d4-1cf36b937be7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy Now'])[2]/preceding::div[33]</value>
+      <webElementGuid>9323b9f1-091a-4708-904f-bec90d383513</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/div/div/div</value>
+      <webElementGuid>9a6edf4d-0ebc-4b01-848a-b77838145984</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'basic$ 3.99 / monthlyAccess to all featuresRegister Up To 5 ClientsDelegate Your Work To Up To 3 AdminsBuy Now' or . = 'basic$ 3.99 / monthlyAccess to all featuresRegister Up To 5 ClientsDelegate Your Work To Up To 3 AdminsBuy Now')]</value>
+      <webElementGuid>b1277fe7-a35e-4e1b-9c72-2cbdbab0a533</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>search-delete-restore client</description>
+   <name>sdr_client</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b547eb92-7223-4513-a682-738dceee48e0</testCaseGuid>
+</TestCaseEntity>
